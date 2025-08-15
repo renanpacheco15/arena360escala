@@ -1,0 +1,56 @@
+{
+  "Bloco": [
+    "B1 • Pré-abertura (05:00–06:00)",
+    "B2 • Pico Manhã (06:00–09:00)",
+    "B3 • Entre Picos (09:00–17:00)",
+    "B4 • Pré-Pico Noite (17:00–18:00)",
+    "B5 • Pico Noite (18:00–21:00)",
+    "B6 • Fechamento (21:00–00:00)"
+  ],
+  "Turno": [
+    "Abertura",
+    "Entre-picos",
+    "Fechamento",
+    "Fechamento do dia",
+    "Madrugada",
+    "Pico Manhã",
+    "Pico Noite",
+    "Pré-pico",
+    "Semanal"
+  ],
+  "Área": [
+    "Aulas",
+    "Bar",
+    "Comercial",
+    "Cozinha",
+    "Gestão",
+    "Infra/Limpeza",
+    "Manutenção",
+    "Marketing",
+    "Quadras",
+    "Segurança",
+    "TI/Sistema"
+  ],
+  "Função": [
+    "Analista de Marketing / Social Media",
+    "Auxiliar de Cozinha",
+    "Barman/Caixa/Apoio",
+    "Executivo Comercial",
+    "Gerente Operacional",
+    "Professor (BT/FV)",
+    "Recepcionista / Controle de Acesso",
+    "Suporte TI",
+    "Técnico de Manutenção Geral",
+    "Vigia Noturno",
+    "Zelador(a)"
+  ],
+  "Prioridade": [
+    "Alta",
+    "Baixa",
+    "Média"
+  ],
+  "Status": [
+    "Pendente"
+  ],
+  "Responsável": []
+}
